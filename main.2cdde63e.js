@@ -11605,7 +11605,17 @@
                             ))
                         }
                         ,
-                        
+                        className: "d-flex flex-column",
+                        children: [(0,
+                        Le.jsx)("Confrim Password", {
+                            
+                            name: "PAge Url",
+                           
+                            required: !0,
+                            style: {
+                                boxShadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)"
+                            }
+                        }), (0,
                         Le.jsx)("input", {
                             className: "mt-4 p-1 border rounded",
                             name: "password",
